@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=F8C8DC&height=200&section=header&text=Bienvenid@%20a%20mi%20mundito&fontSize=32&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:F8BBD0,100:FCE4EC&height=180&section=header&text=Bienvenid@%20a%20mi%20mundito&fontSize=30&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%"/>
+
+<br>
 
 ୨୧ ¡Hola! Soy Jonny Rose ♡
 🎀 Amante del diseño gráfico y futura desarrolladora web
